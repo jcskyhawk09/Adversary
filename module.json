@@ -1,0 +1,15 @@
+{
+    "id": "Adversary",
+    "title": "Adversary",
+    "description": "Adversary homebrew module",
+    "authors": [
+      {
+      "name": "Dalf"
+      }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "11",
+      "verified": "11"
+    }
+  }
